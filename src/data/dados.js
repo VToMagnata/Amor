@@ -12,7 +12,7 @@ export const dados = {
   nomeDela: "Carolina",
   seuNome: "Carolina",
   inicioNamoro: "2026-05-14T00:00:00", // data e hora que começaram
-  frasePrincipal: "Cada dia ao seu lado é o meu favorito 💖",
+  frasePrincipal: "Para a pessoa que eu mais amo nesse mundo💖",
 
   timeline: [
     {
