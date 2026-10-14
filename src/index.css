@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Poppins:wght@300;400;600&display=swap");
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: "Poppins", sans-serif;
+  background: linear-gradient(160deg, #fff0f5, #ffd6e7 60%, #ffc2d9);
+  color: #5a2a3f;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
